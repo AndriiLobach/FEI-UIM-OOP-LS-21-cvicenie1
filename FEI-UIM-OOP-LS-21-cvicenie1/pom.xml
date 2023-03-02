@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>FEI-UIM-OOP-LS-21-cvicenie1</artifactId>
+    <artifactId>FEI-UIM-OOP-LS-21-cvicenie2</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>FEI-UIM-OOP-LS-21-cvicenie1</name>
+    <name>FEI-UIM-OOP-LS-21-cvicenie2</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
